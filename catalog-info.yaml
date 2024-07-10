@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Test_Con2
+  annotations:
+    github.com/project-slug: Andreas-Rieger-BS/Test_Con2
+spec:
+  type: other
+  lifecycle: unknown
+  owner: admins
